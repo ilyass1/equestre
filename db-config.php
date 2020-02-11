@@ -1,8 +1,8 @@
 <?php 
 function connection(){
 $DB_SERVER ='localhost';
-$DB_USERNAME ='root' ;
-$DB_PASSWORD = 'ilyass96';
+$DB_USERNAME ='*******' ;
+$DB_PASSWORD = '*******';
 $DB_NAME =  'equestre';
 $connexion=null;
 try{
