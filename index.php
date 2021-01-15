@@ -510,4 +510,4 @@ Le Club Equestre Mimosas s’est donné pour objectif de faire partager notre am
         </script>
 </body>
 </html> 
-                                   <!-- this web site is made by ILYASS JMYI & ALI BASSIM -->
+                                                                  <!-- this web site is made by ILYASS JMYI-->
